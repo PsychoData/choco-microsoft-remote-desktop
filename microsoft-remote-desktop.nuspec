@@ -2,7 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>microsoft-remote-desktop</id>
-    <version>1.2.2924.0</version>
+    <version>1.2.2924.1</version>
+    <packageSourceUrl>https://github.com/PsychoData/choco-microsoft-remote-desktop</packageSourceUrl>
     <title>microsoft-remote-desktop (Install)</title>
     <authors>Microsoft</authors>
     <owners>PsychoData</owners>
