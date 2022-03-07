@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>microsoft-remote-desktop</id>
+    <version>1.2.2924.0</version>
+    <title>microsoft-remote-desktop (Install)</title>
+    <authors>Microsoft</authors>
+    <owners>PsychoData</owners>
+    <projectUrl>https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>You can use the Remote Desktop client for Windows Desktop to access Windows apps and desktops remotely from a different Windows device.</description>
+    <releaseNotes>https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew</releaseNotes>
+    <summary>You can use the Remote Desktop client for Windows Desktop to access Windows apps and desktops remotely from a different Windows device.</summary>
+    <tags>microsoft-remote-desktop admin remote-desktop windows vdi virtual-desktop-infrastructure</tags>
+    <docsUrl>https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop</docsUrl>
+  </metadata>
+</package>
