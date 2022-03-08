@@ -1,2 +1,6 @@
 /package/services/metadata/core-properties/f2e1dca176c24897998af7ea328b2052.psmdcp
 /microsoft-remote-desktop.1.2.2924.0.nupkg
+/output/*
+/output/
+/package/*
+*.log
