@@ -13,6 +13,9 @@
     <releaseNotes>https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew</releaseNotes>
     <summary>You can use the Remote Desktop client for Windows Desktop to access Windows apps and desktops remotely from a different Windows device.</summary>
     <tags>microsoft-remote-desktop admin remote-desktop windows vdi virtual-desktop-infrastructure</tags>
+    <dependencies>
+      <dependency id='dotnet4.6.1' />
+    </dependencies>
     <docsUrl>https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop</docsUrl>
   </metadata>
 </package>

@@ -33,4 +33,5 @@ Install-ChocolateyPackage @packageArgs
 
 #TODO: Properly handle this
 #Force no Update mode for now
+New-Item -Path Registry::HKLM\Software\Microsoft\MSRDC\Policies -Force 
 New-ItemProperty -Path Registry::HKLM\Software\Microsoft\MSRDC\Policies -Name 'AutomaticUpdates' -Value 0 -PropertyType 'DWord' -Force
